@@ -1,0 +1,6 @@
+node_modules/
+.env
+runenv.local.sh
+shots/
+shots-*/
+*.log
